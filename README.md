@@ -1,4 +1,4 @@
-This project is a very simple API Testing Automation framework - Rest-assured. 
+This project is a very simple API Testing Automation framework using Rest-assured. 
 
     THIS REPO CONTAINS:
 
