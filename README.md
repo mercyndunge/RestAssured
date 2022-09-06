@@ -6,7 +6,7 @@ This project is a very simple API Testing Automation framework using Rest-assure
     Hamcrest Matchers are used for assertions.
     TestNG Listeners are used to capture the events in logs.
     Log4j is used to capture logs
-    End to End scenarios have been added for the reqres API.
+    End to End scenarios have been added for the reqres API (https://reqres.in/).
     
     END TO END SCENARIOS COVERED:
     Tests for Get request
